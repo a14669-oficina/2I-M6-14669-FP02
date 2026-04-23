@@ -24,14 +24,14 @@ Interface web simples para interação
 Separação entre área pública e área privada
 Gestão de sessões de utilizador
 
-<h3>🔹 Aplicação da IA 🔹</h3>
+<h2>🔹 Aplicação da IA 🔹</h2>
 A Inteligência Artificial foi utilizada como apoio no desenvolvimento do projeto, nomeadamente para:
 
 Esclarecimento de dúvidas sobre código PHP
 Sugestões de estrutura do projeto
 Correção de erros
 
-<h3>🔹 Papel do Aluno 🔹</h3>
+<h2>🔹 Papel do Aluno 🔹</h2>
 O aluno foi responsável por:
 
 Implementar o código
